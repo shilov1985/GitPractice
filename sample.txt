@@ -4,4 +4,8 @@ another change from locally
 add another row from git
 add row2
 add row1
+<<<<<<< HEAD
 add row locally
+=======
+add row3 from git
+>>>>>>> 8289349b093865a214973ac9e239b09ca40d24f2

@@ -1,2 +1,3 @@
 new file
 row1
+row 2 from git
