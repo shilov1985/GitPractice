@@ -1,4 +1,5 @@
 new file
 row1
 row 2 from git
-add first row
+add first row git
+add second row git
