@@ -3,3 +3,4 @@ changes locally
 another change from locally
 add another row from git
 add row2
+add row1
