@@ -1,2 +1,3 @@
 changes from git
 changes locally
+add another row from git
